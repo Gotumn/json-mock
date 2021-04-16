@@ -1,8 +1,7 @@
 {  "season":[
     {
-      "category": "Meat dishes",
+      "category": "Keyboard",
       "CategoryID": 1,
-      "date": "July 4-5",
       "Items": [
         {
           "uri":
@@ -43,9 +42,8 @@
       ]
     },
     {
-      "category": "Fish dishes",
+      "category": "Mouse",
       "CategoryID": 2,
-      "date": "July 18-19",
       "Items": [
         {
           "uri":
@@ -86,9 +84,8 @@
       ]
     },
     {
-      "category": "Salad",
+      "category": "Headphones",
       "CategoryID": 3,
-      "date": "August 7-9",
       "Items": [
         {
           "uri":
@@ -129,9 +126,8 @@
       ]
     },
     {
-      "category": "Snacks",
+      "category": "Display",
       "CategoryID": 4,
-      "date": "September 5-6",
       "Items": [
         {
           "uri":
