@@ -1,9 +1,9 @@
 {  "season":[
     {
       "category": "Meat dishes",
-      "recipeID": 1,
+      "CategoryID": 1,
       "date": "July 4-5",
-      "photo": [
+      "Items": [
         {
           "uri":
             "https://worldrecipes.eu/storage/6917/conversions/karbonadas-kiaulienos-thumb.jpg",
@@ -44,9 +44,9 @@
     },
     {
       "category": "Fish dishes",
-      "recipeID": 2,
+      "CategoryID": 2,
       "date": "July 18-19",
-      "photo": [
+      "Items": [
         {
           "uri":
             "https://realfood.tesco.com/media/images/RFO-1400x919-Mediterranean-fish-traybake-98728101-cba5-4bbc-9add-b2afbba142d3-0-1400x919.jpg",
@@ -87,9 +87,9 @@
     },
     {
       "category": "Salad",
-      "recipeID": 3,
+      "CategoryID": 3,
       "date": "August 7-9",
-      "photo": [
+      "Items": [
         {
           "uri":
             "https://hips.hearstapps.com/hmg-prod/images/avocado-salad-1524672116.png",
@@ -130,9 +130,9 @@
     },
     {
       "category": "Snacks",
-      "recipeID": 4,
+      "CategoryID": 4,
       "date": "September 5-6",
-      "photo": [
+      "Items": [
         {
           "uri":
             "https://www.eatwell101.com/wp-content/uploads/2017/05/low-calorie-snack-recipe-800x800.jpg",
